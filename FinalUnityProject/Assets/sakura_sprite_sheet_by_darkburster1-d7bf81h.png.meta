@@ -1,0 +1,1315 @@
+fileFormatVersion: 2
+guid: 5bf96e5a9b836402cbedb44a077329e8
+timeCreated: 1522253520
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sakura_sprite_sheet_by_darkburster1-d7bf81h_0
+    21300002: sakura_sprite_sheet_by_darkburster1-d7bf81h_1
+    21300004: sakura_sprite_sheet_by_darkburster1-d7bf81h_2
+    21300006: sakura_sprite_sheet_by_darkburster1-d7bf81h_3
+    21300008: sakura_sprite_sheet_by_darkburster1-d7bf81h_4
+    21300010: sakura_sprite_sheet_by_darkburster1-d7bf81h_5
+    21300012: sakura_sprite_sheet_by_darkburster1-d7bf81h_6
+    21300014: sakura_sprite_sheet_by_darkburster1-d7bf81h_7
+    21300016: sakura_sprite_sheet_by_darkburster1-d7bf81h_8
+    21300018: sakura_sprite_sheet_by_darkburster1-d7bf81h_9
+    21300020: sakura_sprite_sheet_by_darkburster1-d7bf81h_10
+    21300022: sakura_sprite_sheet_by_darkburster1-d7bf81h_11
+    21300024: sakura_sprite_sheet_by_darkburster1-d7bf81h_12
+    21300026: sakura_sprite_sheet_by_darkburster1-d7bf81h_13
+    21300028: sakura_sprite_sheet_by_darkburster1-d7bf81h_14
+    21300030: sakura_sprite_sheet_by_darkburster1-d7bf81h_15
+    21300032: sakura_sprite_sheet_by_darkburster1-d7bf81h_16
+    21300034: sakura_sprite_sheet_by_darkburster1-d7bf81h_17
+    21300036: sakura_sprite_sheet_by_darkburster1-d7bf81h_18
+    21300038: sakura_sprite_sheet_by_darkburster1-d7bf81h_19
+    21300040: sakura_sprite_sheet_by_darkburster1-d7bf81h_20
+    21300042: sakura_sprite_sheet_by_darkburster1-d7bf81h_21
+    21300044: sakura_sprite_sheet_by_darkburster1-d7bf81h_22
+    21300046: sakura_sprite_sheet_by_darkburster1-d7bf81h_23
+    21300048: sakura_sprite_sheet_by_darkburster1-d7bf81h_24
+    21300050: sakura_sprite_sheet_by_darkburster1-d7bf81h_25
+    21300052: sakura_sprite_sheet_by_darkburster1-d7bf81h_26
+    21300054: sakura_sprite_sheet_by_darkburster1-d7bf81h_27
+    21300056: sakura_sprite_sheet_by_darkburster1-d7bf81h_28
+    21300058: sakura_sprite_sheet_by_darkburster1-d7bf81h_29
+    21300060: sakura_sprite_sheet_by_darkburster1-d7bf81h_30
+    21300062: sakura_sprite_sheet_by_darkburster1-d7bf81h_31
+    21300064: sakura_sprite_sheet_by_darkburster1-d7bf81h_32
+    21300066: sakura_sprite_sheet_by_darkburster1-d7bf81h_33
+    21300068: sakura_sprite_sheet_by_darkburster1-d7bf81h_34
+    21300070: sakura_sprite_sheet_by_darkburster1-d7bf81h_35
+    21300072: sakura_sprite_sheet_by_darkburster1-d7bf81h_36
+    21300074: sakura_sprite_sheet_by_darkburster1-d7bf81h_37
+    21300076: sakura_sprite_sheet_by_darkburster1-d7bf81h_38
+    21300078: sakura_sprite_sheet_by_darkburster1-d7bf81h_39
+    21300080: sakura_sprite_sheet_by_darkburster1-d7bf81h_40
+    21300082: sakura_sprite_sheet_by_darkburster1-d7bf81h_41
+    21300084: sakura_sprite_sheet_by_darkburster1-d7bf81h_42
+    21300086: sakura_sprite_sheet_by_darkburster1-d7bf81h_43
+    21300088: sakura_sprite_sheet_by_darkburster1-d7bf81h_44
+    21300090: sakura_sprite_sheet_by_darkburster1-d7bf81h_45
+    21300092: sakura_sprite_sheet_by_darkburster1-d7bf81h_46
+    21300094: sakura_sprite_sheet_by_darkburster1-d7bf81h_47
+    21300096: sakura_sprite_sheet_by_darkburster1-d7bf81h_48
+    21300098: sakura_sprite_sheet_by_darkburster1-d7bf81h_49
+    21300100: sakura_sprite_sheet_by_darkburster1-d7bf81h_50
+    21300102: sakura_sprite_sheet_by_darkburster1-d7bf81h_51
+    21300104: sakura_sprite_sheet_by_darkburster1-d7bf81h_52
+    21300106: sakura_sprite_sheet_by_darkburster1-d7bf81h_53
+    21300108: sakura_sprite_sheet_by_darkburster1-d7bf81h_54
+    21300110: sakura_sprite_sheet_by_darkburster1-d7bf81h_55
+    21300112: sakura_sprite_sheet_by_darkburster1-d7bf81h_56
+    21300114: sakura_sprite_sheet_by_darkburster1-d7bf81h_57
+    21300116: sakura_sprite_sheet_by_darkburster1-d7bf81h_58
+    21300118: sakura_sprite_sheet_by_darkburster1-d7bf81h_59
+    21300120: sakura_sprite_sheet_by_darkburster1-d7bf81h_60
+    21300122: sakura_sprite_sheet_by_darkburster1-d7bf81h_61
+    21300124: sakura_sprite_sheet_by_darkburster1-d7bf81h_62
+    21300126: sakura_sprite_sheet_by_darkburster1-d7bf81h_63
+    21300128: sakura_sprite_sheet_by_darkburster1-d7bf81h_64
+    21300130: sakura_sprite_sheet_by_darkburster1-d7bf81h_65
+    21300132: sakura_sprite_sheet_by_darkburster1-d7bf81h_66
+    21300134: sakura_sprite_sheet_by_darkburster1-d7bf81h_67
+    21300136: sakura_sprite_sheet_by_darkburster1-d7bf81h_68
+    21300138: sakura_sprite_sheet_by_darkburster1-d7bf81h_69
+    21300140: sakura_sprite_sheet_by_darkburster1-d7bf81h_70
+    21300142: sakura_sprite_sheet_by_darkburster1-d7bf81h_71
+    21300144: sakura_sprite_sheet_by_darkburster1-d7bf81h_72
+    21300146: sakura_sprite_sheet_by_darkburster1-d7bf81h_73
+    21300148: sakura_sprite_sheet_by_darkburster1-d7bf81h_74
+    21300150: sakura_sprite_sheet_by_darkburster1-d7bf81h_75
+    21300152: sakura_sprite_sheet_by_darkburster1-d7bf81h_76
+    21300154: sakura_sprite_sheet_by_darkburster1-d7bf81h_77
+    21300156: sakura_sprite_sheet_by_darkburster1-d7bf81h_78
+    21300158: sakura_sprite_sheet_by_darkburster1-d7bf81h_79
+    21300160: sakura_sprite_sheet_by_darkburster1-d7bf81h_80
+    21300162: sakura_sprite_sheet_by_darkburster1-d7bf81h_81
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 716
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 712
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 706
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 712
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 703
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 703
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_6
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 707
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_7
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 700
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 632
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 627
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 634
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 622
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 612
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 620
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_14
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 628
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_15
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 603
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_16
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 607
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_17
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 600
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_18
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 606
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 568
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 561
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_21
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 558
+        width: 77
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_22
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 550
+        width: 80
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_23
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 546
+        width: 84
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_24
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 512
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_25
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 510
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 512
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_27
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 514
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 473
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_29
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 524
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 461
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 456
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 446
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 433
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_34
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 443
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_35
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 412
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_36
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 416
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_37
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 412
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 416
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 380
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_40
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 384
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 363
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_42
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 338
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_43
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 343
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_44
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 334
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_45
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 331
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_46
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 331
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_47
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 328
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_48
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 333
+        width: 85
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_49
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 324
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_50
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 312
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_51
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 311
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_52
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 285
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_53
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 268
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_54
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 268
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_55
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 233
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_56
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 228
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_57
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 238
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_58
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 263
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_59
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 263
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_60
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 239
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_61
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 151
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 148
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_63
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 153
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_64
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 137
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_65
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 136
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_66
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 136
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_67
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 135
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_68
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 135
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_69
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 135
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_70
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 135
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_71
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 132
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_72
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 67
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_73
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 64
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 49
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_75
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 48
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_76
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 36
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_77
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 36
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_78
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 32
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_79
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 27
+        width: 111
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_80
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 6
+        width: 165
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sakura_sprite_sheet_by_darkburster1-d7bf81h_81
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 94
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
